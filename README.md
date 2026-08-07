@@ -2,11 +2,11 @@
 
 Physics Engineer (UFSCar) turned Full-Stack Developer, building AI agents in Python, backed by robust .NET architecture and cross-platform Flutter apps.
 
-Founder of [Mythros Digital](https://mythrosdigital.com), my own software studio — I design and build custom websites, applications, and management systems for real clients, covering the full cycle from UI/UX to backend and deployment.
+Founder of <a href="https://mythrosdigital.com" target="_blank" rel="noopener noreferrer">Mythros Digital</a>, my own software studio — I design and build custom websites, applications, and management systems for real clients, covering the full cycle from UI/UX to backend and deployment.
 
-🔭 Currently deepening my skills in FastAPI, Django, and AI agent frameworks like LangChain
-🌱 Background in AI applied to agriculture (Embrapa Instrumentação) and industrial automation
-📫 Reach me at [matheuspolichiarelli.com](https://matheuspolichiarelli.com) or [LinkedIn](https://linkedin.com/in/matheuspolichiarelli)
+🔭 Currently deepening my skills in FastAPI, Django, and AI agent frameworks like LangChain<br>
+🌱 Background in AI applied to agriculture (Embrapa Instrumentação) and industrial automation<br>
+📫 Reach me at <a href="https://matheuspolichiarelli.com" target="_blank" rel="noopener noreferrer">matheuspolichiarelli.com</a> or <a href="https://linkedin.com/in/matheuspolichiarelli" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 ---
 
